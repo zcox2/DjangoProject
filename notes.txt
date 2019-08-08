@@ -1,0 +1,6 @@
+Don't forget to add Apache at some point. 8/8/19
+
+
+activate venv by "source venv/bin/activate"
+deactivate by "deactivate"
+You can now just use "python" and "pip". 
